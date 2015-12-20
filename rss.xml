@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Babypret]]></title>
         <description><![CDATA[Babypret]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/babypret/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 21:18:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 21:23:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/babypret/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/babypret/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">075351c7-1618-479e-b14b-91b5b5c2fb74</guid>
+            <pubDate>Sun, 20 Dec 2015 21:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welkome]]></title>
             <description><![CDATA[<article><h1>Welkome</h1><p>Welkom op babypret.net De site voor jonge ouder en ouder to be</p></article>]]></description>
-            <link>undefinedwelkome/index.html</link>
+            <link>https://thegrid.ai/babypret/welkome/index.html</link>
             <guid isPermaLink="false">5ec566b3-c911-4468-8a8e-abe13bf51372</guid>
             <pubDate>Sun, 20 Dec 2015 21:18:25 GMT</pubDate>
         </item>
