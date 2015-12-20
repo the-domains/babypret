@@ -1,7 +1,7 @@
 name: Babypret
 favicon: null
 layout_spectrum: 0.24698719941079617
-typography_spectrum: 0.1448070714250207
+typography_spectrum: 0.9808
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.1072321543470025
+  brandStrength: 0.125
   lightness: 0.3355983286164701
   saturation: 0.20289247552864254
   rhythmicContrast: 0.33551112399436533
